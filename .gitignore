@@ -11,3 +11,4 @@ wheels/
 .DS_Store
 uv.lock
 .env
+.vscode
